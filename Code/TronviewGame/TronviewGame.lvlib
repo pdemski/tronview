@@ -9,7 +9,6 @@
 		<Item Name="PadBoardWithBlock.vi" Type="VI" URL="../BoardDisplay/PadBoardWithBlock.vi"/>
 	</Item>
 	<Item Name="Board.lvclass" Type="LVClass" URL="../Board/Board.lvclass"/>
-	<Item Name="BotVIRefnum.ctl" Type="VI" URL="../BotVIRefnum.ctl"/>
 	<Item Name="Game.lvclass" Type="LVClass" URL="../Game/Game.lvclass"/>
 	<Item Name="Player.lvclass" Type="LVClass" URL="../Player/Player.lvclass"/>
 </Library>

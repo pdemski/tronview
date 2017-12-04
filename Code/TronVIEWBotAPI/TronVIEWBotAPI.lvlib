@@ -6,6 +6,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="Bot.vi" Type="VI" URL="../Bot.vi"/>
 	<Item Name="BotData.ctl" Type="VI" URL="../BotData.ctl"/>
+	<Item Name="BotVIRefnum.ctl" Type="VI" URL="../BotVIRefnum.ctl"/>
 	<Item Name="GameState.ctl" Type="VI" URL="../GameState.ctl"/>
 	<Item Name="MatchState.ctl" Type="VI" URL="../MatchState.ctl"/>
 	<Item Name="MovementDirection.ctl" Type="VI" URL="../MovementDirection.ctl"/>
