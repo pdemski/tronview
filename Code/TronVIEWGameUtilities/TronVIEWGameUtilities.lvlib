@@ -6,4 +6,5 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="IsPositionOccupied.vi" Type="VI" URL="../IsPositionOccupied.vi"/>
 	<Item Name="MovePosition.vi" Type="VI" URL="../MovePosition.vi"/>
+	<Item Name="ProcessBotMove.vi" Type="VI" URL="../ProcessBotMove.vi"/>
 </Library>

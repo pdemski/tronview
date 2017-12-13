@@ -10,5 +10,6 @@
 	</Item>
 	<Item Name="Board.lvclass" Type="LVClass" URL="../Board/Board.lvclass"/>
 	<Item Name="Game.lvclass" Type="LVClass" URL="../Game/Game.lvclass"/>
+	<Item Name="GameRecorder.lvclass" Type="LVClass" URL="../GameRecorder/GameRecorder.lvclass"/>
 	<Item Name="Player.lvclass" Type="LVClass" URL="../Player/Player.lvclass"/>
 </Library>

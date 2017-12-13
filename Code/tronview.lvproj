@@ -12,7 +12,9 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="ExampleBots" Type="Folder">
+			<Item Name="StraightBot.lvlib" Type="Library" URL="../ExampleBots/StraightBot/StraightBot.lvlib"/>
 			<Item Name="RandomBot.lvlib" Type="Library" URL="../ExampleBots/RandomBot/RandomBot.lvlib"/>
+			<Item Name="ReplayBot.lvlib" Type="Library" URL="../ExampleBots/ReplayBot/ReplayBot.lvlib"/>
 			<Item Name="ExampleBotsDirectory.vi" Type="VI" URL="../ExampleBots/ExampleBotsDirectory.vi"/>
 		</Item>
 		<Item Name="Sandbox" Type="Folder">
