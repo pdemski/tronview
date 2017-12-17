@@ -18,8 +18,7 @@
 			<Item Name="ExampleBotsDirectory.vi" Type="VI" URL="../ExampleBots/ExampleBotsDirectory.vi"/>
 		</Item>
 		<Item Name="Sandbox" Type="Folder">
-			<Item Name="Prototype.vi" Type="VI" URL="../Sandbox/Prototype.vi"/>
-			<Item Name="Example_TronVIEWGame.vi" Type="VI" URL="../Sandbox/Example_TronVIEWGame.vi"/>
+			<Item Name="Example_Game.vi" Type="VI" URL="../Sandbox/Example_Game.vi"/>
 		</Item>
 		<Item Name="TronviewGame.lvlib" Type="Library" URL="../TronviewGame/TronviewGame.lvlib"/>
 		<Item Name="TronVIEWBotAPI.lvlib" Type="Library" URL="../TronVIEWBotAPI/TronVIEWBotAPI.lvlib"/>
@@ -29,6 +28,8 @@
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
+				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
+				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>

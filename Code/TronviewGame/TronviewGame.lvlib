@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">352354304</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="BoardDisplay" Type="Folder">
 		<Item Name="DisplayBoard.vi" Type="VI" URL="../BoardDisplay/DisplayBoard.vi"/>
 		<Item Name="PadBoardWithBlock.vi" Type="VI" URL="../BoardDisplay/PadBoardWithBlock.vi"/>
@@ -12,4 +13,5 @@
 	<Item Name="Game.lvclass" Type="LVClass" URL="../Game/Game.lvclass"/>
 	<Item Name="GameRecorder.lvclass" Type="LVClass" URL="../GameRecorder/GameRecorder.lvclass"/>
 	<Item Name="Player.lvclass" Type="LVClass" URL="../Player/Player.lvclass"/>
+	<Item Name="GameEngine.vi" Type="VI" URL="../GameEngine.vi"/>
 </Library>
