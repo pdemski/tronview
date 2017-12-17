@@ -4,5 +4,11 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">352354304</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="subVIs" Type="Folder">
+		<Item Name="ReplayQueueFGV.vi" Type="VI" URL="../ReplayQueueFGV.vi"/>
+		<Item Name="ReplayQueueFGV_Command.ctl" Type="VI" URL="../ReplayQueueFGV_Command.ctl"/>
+	</Item>
 	<Item Name="Bot.vi" Type="VI" URL="../Bot.vi"/>
+	<Item Name="Clear.vi" Type="VI" URL="../Clear.vi"/>
+	<Item Name="Initialize.vi" Type="VI" URL="../Initialize.vi"/>
 </Library>

@@ -19,6 +19,7 @@
 		</Item>
 		<Item Name="Sandbox" Type="Folder">
 			<Item Name="Example_Game.vi" Type="VI" URL="../Sandbox/Example_Game.vi"/>
+			<Item Name="Example_Replay.vi" Type="VI" URL="../Sandbox/Example_Replay.vi"/>
 		</Item>
 		<Item Name="TronviewGame.lvlib" Type="Library" URL="../TronviewGame/TronviewGame.lvlib"/>
 		<Item Name="TronVIEWBotAPI.lvlib" Type="Library" URL="../TronVIEWBotAPI/TronVIEWBotAPI.lvlib"/>
