@@ -20,7 +20,6 @@
 			<Item Name="ReplayBot.lvlib" Type="Library" URL="../ExampleBots/ReplayBot/ReplayBot.lvlib"/>
 			<Item Name="ExampleBotsDirectory.vi" Type="VI" URL="../ExampleBots/ExampleBotsDirectory.vi"/>
 		</Item>
-		<Item Name="Sandbox" Type="Folder"/>
 		<Item Name="Game" Type="Folder">
 			<Item Name="TronviewGame.lvlib" Type="Library" URL="../TronviewGame/TronviewGame.lvlib"/>
 			<Item Name="TronVIEWBotAPI.lvlib" Type="Library" URL="../TronVIEWBotAPI/TronVIEWBotAPI.lvlib"/>
