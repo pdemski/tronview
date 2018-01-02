@@ -28,6 +28,7 @@
 		<Item Name="Sandbox" Type="Folder">
 			<Item Name="Images.vi" Type="VI" URL="../Sandbox/Images.vi"/>
 			<Item Name="logo.vi" Type="VI" URL="../Sandbox/logo.vi"/>
+			<Item Name="Example_GameWithVisual.vi" Type="VI" URL="../Sandbox/Example_GameWithVisual.vi"/>
 		</Item>
 		<Item Name="Presentation" Type="Folder">
 			<Item Name="TronviewPresentation.lvlib" Type="Library" URL="../TronviewPresentation/TronviewPresentation.lvlib"/>
