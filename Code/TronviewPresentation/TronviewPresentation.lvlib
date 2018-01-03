@@ -4,9 +4,6 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">352354304</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="Utilities" Type="Folder">
-		<Item Name="FillImagesEnum.vi" Type="VI" URL="../TronviewPresentation/FillImagesEnum.vi"/>
-	</Item>
+	<Item Name="Utilities" Type="Folder"/>
 	<Item Name="BoardDisplay.lvclass" Type="LVClass" URL="../BoardDisplay/BoardDisplay.lvclass"/>
-	<Item Name="Images.ctl" Type="VI" URL="../TronviewPresentation/Images.ctl"/>
 </Library>

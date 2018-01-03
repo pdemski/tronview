@@ -26,7 +26,6 @@
 			<Item Name="TronVIEWGameUtilities.lvlib" Type="Library" URL="../TronVIEWGameUtilities/TronVIEWGameUtilities.lvlib"/>
 		</Item>
 		<Item Name="Sandbox" Type="Folder">
-			<Item Name="Images.vi" Type="VI" URL="../Sandbox/Images.vi"/>
 			<Item Name="logo.vi" Type="VI" URL="../Sandbox/logo.vi"/>
 			<Item Name="Example_GameWithVisual.vi" Type="VI" URL="../Sandbox/Example_GameWithVisual.vi"/>
 		</Item>
@@ -36,7 +35,6 @@
 		<Item Name="TemplateBot.lvlib" Type="Library" URL="../TemplateBot/TemplateBot.lvlib"/>
 		<Item Name="Example_Replay.vi" Type="VI" URL="../Sandbox/Example_Replay.vi"/>
 		<Item Name="Example_Game.vi" Type="VI" URL="../Sandbox/Example_Game.vi"/>
-		<Item Name="Example_BoardDisplay.vi" Type="VI" URL="../TronviewPresentation/BoardDisplay/Example_BoardDisplay.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
