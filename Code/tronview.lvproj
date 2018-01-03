@@ -32,6 +32,9 @@
 		<Item Name="Presentation" Type="Folder">
 			<Item Name="TronviewPresentation.lvlib" Type="Library" URL="../TronviewPresentation/TronviewPresentation.lvlib"/>
 		</Item>
+		<Item Name="Resources" Type="Folder" URL="../Resources">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="TemplateBot.lvlib" Type="Library" URL="../TemplateBot/TemplateBot.lvlib"/>
 		<Item Name="Example_Replay.vi" Type="VI" URL="../Sandbox/Example_Replay.vi"/>
 		<Item Name="Example_Game.vi" Type="VI" URL="../Sandbox/Example_Game.vi"/>
@@ -51,6 +54,8 @@
 				<Item Name="FixBadRect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/FixBadRect.vi"/>
 				<Item Name="Get File Extension.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Get File Extension.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
+				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>
