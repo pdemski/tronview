@@ -28,6 +28,7 @@
 		<Item Name="Sandbox" Type="Folder">
 			<Item Name="logo.vi" Type="VI" URL="../Sandbox/logo.vi"/>
 			<Item Name="Example_GameWithVisual.vi" Type="VI" URL="../Sandbox/Example_GameWithVisual.vi"/>
+			<Item Name="BoardScreens.vi" Type="VI" URL="../Sandbox/BoardScreens.vi"/>
 		</Item>
 		<Item Name="Presentation" Type="Folder">
 			<Item Name="TronviewPresentation.lvlib" Type="Library" URL="../TronviewPresentation/TronviewPresentation.lvlib"/>
@@ -56,6 +57,10 @@
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
+				<Item Name="Check Data Size.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Check Data Size.vi"/>
+				<Item Name="Check Color Table Size.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Check Color Table Size.vi"/>
+				<Item Name="Check File Permissions.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Check File Permissions.vi"/>
+				<Item Name="Write PNG File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/png.llb/Write PNG File.vi"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>

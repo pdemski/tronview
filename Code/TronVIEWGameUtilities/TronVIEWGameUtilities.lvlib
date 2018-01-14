@@ -9,6 +9,7 @@
 
 </Property>
 	<Item Name="IsPositionOccupied.vi" Type="VI" URL="../IsPositionOccupied.vi"/>
+	<Item Name="MarkBoardPerimeter.vi" Type="VI" URL="../MarkBoardPerimeter.vi"/>
 	<Item Name="MovePosition.vi" Type="VI" URL="../MovePosition.vi"/>
 	<Item Name="ProcessBotMove.vi" Type="VI" URL="../ProcessBotMove.vi"/>
 </Library>

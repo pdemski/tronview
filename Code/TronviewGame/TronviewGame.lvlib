@@ -14,5 +14,7 @@
 	<Item Name="Game.lvclass" Type="LVClass" URL="../Game/Game.lvclass"/>
 	<Item Name="GameRecorder.lvclass" Type="LVClass" URL="../GameRecorder/GameRecorder.lvclass"/>
 	<Item Name="Player.lvclass" Type="LVClass" URL="../Player/Player.lvclass"/>
+	<Item Name="GameBuilder.lvclass" Type="LVClass" URL="../GameBuilder/GameBuilder.lvclass"/>
 	<Item Name="GameEngine.vi" Type="VI" URL="../GameEngine.vi"/>
+	<Item Name="VisualizationType.ctl" Type="VI" URL="../VisualizationType.ctl"/>
 </Library>
