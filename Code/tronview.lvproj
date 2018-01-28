@@ -29,6 +29,7 @@
 			<Item Name="logo.vi" Type="VI" URL="../Sandbox/logo.vi"/>
 			<Item Name="Example_GameWithVisual.vi" Type="VI" URL="../Sandbox/Example_GameWithVisual.vi"/>
 			<Item Name="BoardScreens.vi" Type="VI" URL="../Sandbox/BoardScreens.vi"/>
+			<Item Name="ManualTester.vi" Type="VI" URL="../Sandbox/ManualTester.vi"/>
 		</Item>
 		<Item Name="Presentation" Type="Folder">
 			<Item Name="TronviewPresentation.lvlib" Type="Library" URL="../TronviewPresentation/TronviewPresentation.lvlib"/>
@@ -62,9 +63,10 @@
 				<Item Name="Check File Permissions.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Check File Permissions.vi"/>
 				<Item Name="Write PNG File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/png.llb/Write PNG File.vi"/>
 				<Item Name="NI_Gmath.lvlib" Type="Library" URL="/&lt;vilib&gt;/gmath/NI_Gmath.lvlib"/>
-			</Item>
-			<Item Name="user.lib" Type="Folder">
-				<Item Name="Tick Count (ms)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/time/time.llb/Tick Count (ms)__ogtk.vi"/>
+				<Item Name="System Directory Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/System Directory Type.ctl"/>
+				<Item Name="Get System Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/Get System Directory.vi"/>
+				<Item Name="List Directory and LLBs.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/List Directory and LLBs.vi"/>
+				<Item Name="Recursive File List.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Recursive File List.vi"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>
